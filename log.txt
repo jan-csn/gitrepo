@@ -1,0 +1,17 @@
+commit 0758c8e78d1687c30ace7211a5d8fe6830e298bc
+Author: Jan Carlos <contato@jancarlos.com.br>
+Date:   Sat Apr 15 03:29:53 2023 -0300
+
+    versão 1, jan2.txt
+
+commit 1697758c2d548d1a7604ee825d5fd400fe6749e8
+Author: Jan Carlos <contato@jancarlos.com.br>
+Date:   Fri Apr 14 23:08:40 2023 -0300
+
+    versão 2
+
+commit 8ae646a1305efd9dc82b4ffd824aa506ef551098
+Author: Jan Carlos <contato@jancarlos.com.br>
+Date:   Fri Apr 14 23:07:02 2023 -0300
+
+    versão inicial
